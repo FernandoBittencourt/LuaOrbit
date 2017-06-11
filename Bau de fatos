@@ -7,12 +7,16 @@ A IDE deve ser capaz de criar, importar, exportar e excluir projetos Lua.
 ##Editor de texto
 A IDE deve ser capaz de permitir os usuarios criarem, editarem e excluirem os arquivos de texto que estão contidos nela.
 
+##Numeração de linhas
+O editor de texto deve ser capaz de numerar as linhas de código.
+
 ##Colorir palavras
 O editor de texto deve ser capaz de "Colorir" as palavras reservadas a fim de facilitar o desenvolvimento.
 ###Cores das palavras
 Palavra | Cor
-function | Azul
+Palavras reservadas (function/local/nil etc) | Azul
 Comentarios | Verde
+Strings | Laranja
 
 ##Execução de Código
 A IDE deve ser capaz de executar os scripts, "Debugar" o código e parar a execução.

@@ -1,0 +1,31 @@
+#Funcionalidades
+Abaixo estão listadas a principais funcionalidades da IDE.
+
+##Projetos
+A IDE deve ser capaz de criar, importar, exportar e excluir projetos Lua.
+
+##Editor de texto
+A IDE deve ser capaz de permitir os usuarios criarem, editarem e excluirem os arquivos de texto que estão contidos nela.
+
+##Colorir palavras
+O editor de texto deve ser capaz de "Colorir" as palavras reservadas a fim de facilitar o desenvolvimento.
+###Cores das palavras
+Palavra | Cor
+function | Azul
+Comentarios | Verde
+
+##Execução de Código
+A IDE deve ser capaz de executar os scripts, "Debugar" o código e parar a execução.
+
+##Console
+O resultado assim como qualquer forma de saida deve ser exibida no Console da IDE.
+Erros devem ser retornados no console "pintados" de vermelho, assim como deve exibir um relatorio sobre ele.
+
+##Testes
+A IDE deve ser capaz de se integrar com algum Framework de testes.
+
+##Gerenciamento de Pacote
+A IDE deve ser capaz de gerenciar os pacotes, integrando com o gerenciador de pacotes "LuaRocks".
+
+## Documentação
+Ser capaz de exibir a documentação.

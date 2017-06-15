@@ -2,7 +2,7 @@
 Abaixo estão listadas a principais funcionalidades da IDE.
 
 ##Projetos
-A IDE deve ser capaz de criar, importar, exportar e excluir projetos Lua.
+A IDE deve ser capaz de criar, alterar, importar, exportar e excluir projetos Lua.
 
 ##Editor de texto
 A IDE deve ser capaz de permitir os usuarios criarem, editarem e excluirem os arquivos de texto que estão contidos nela.

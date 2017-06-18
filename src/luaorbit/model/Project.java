@@ -9,6 +9,10 @@ public class Project {
 	private List<ProjectFolder> folders;
 	private List<ProjectFile> files;
 	
+	public Project(String name){
+		this.name = name;
+	}
+	
 	public String getName() {
 		return name;
 	}
